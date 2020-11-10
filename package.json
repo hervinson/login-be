@@ -1,0 +1,19 @@
+{
+  "name": "login-page-be",
+  "version": "1.0.0",
+  "description": "Be for login-page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hervinson Samson",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "couchbase": "^3.0.7",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
